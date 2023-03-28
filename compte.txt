@@ -1,0 +1,5 @@
+Le dossier CDM_2014/ contient 74 images.
+Le dossier CDM_2018/ contient 112 images.
+Le dossier CDM_2022/ contient 75 images.
+Le dossier EURO_2016/ contient 58 images.
+Le dossier EURO_2020/ contient 106 images.
